@@ -1,0 +1,11 @@
+* {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 0;
+}
+.container {
+    width: 1170px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
