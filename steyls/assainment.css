@@ -116,3 +116,59 @@
 .section3 .yearArea {
     text-align: center;
 }
+.section3 .yearArea img {
+    width: 250px;
+    margin-left: 20%;
+    height: 389px;
+}
+
+.textarea {
+    text-align: center;
+    color: #fff;
+    width: 50%;
+    z-index: 3;
+}
+
+.textarea h2 {
+    font-size: 37px;
+    color: #fff;
+    text-align: left;
+    margin-left: 70px;
+    letter-spacing: 4px;
+}
+
+.textarea p {
+    font-size: 12px;
+    margin-top: -40px;
+    margin-left: 70px;
+    text-align: left;
+}
+
+.section4 {
+    width: 1170px;
+    height: 280px;
+    background: linear-gradient(178deg, #e3a2d58c, transparent);
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 29px 0;
+}
+
+.section4 h3 {
+    margin: 5px 0;
+}
+
+.section4 h3 span {
+    color: red;
+}
+
+.section4 button {
+    padding: 10px 20px;
+    color: #fff;
+    background: red;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
