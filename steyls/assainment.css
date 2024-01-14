@@ -172,3 +172,74 @@
     border-radius: 5px;
     margin-top: 20px;
 }
+.section5{
+    text-align: center;
+    color: #070211;
+}
+#joyer{
+    text-align: center;
+}
+#abir{
+     color: #F00;
+    text-align: cent;
+}
+.kokir{
+
+width: 1170px;
+}
+.kokir .image1{width: 36%;float: left;position: absolute;margin-top: 65px;}
+.kokir .image1 img{
+    width: 310px;
+    margin-left: 139px;
+}
+.kokir .image2 {
+    width: 20%;
+    float: left;
+    margin-left: 393px;
+}
+.kokir .image2 img{width: 211px;margin-left: 269px;}
+.kokir .image3 {
+}
+.kokir .image3 img{
+    width: 280px;
+    float: right;
+}
+.kokir .image4 {}
+.kokir .image4 img{
+    width: 1170px;
+    margin-top: -100px;
+    height: 140px;
+}
+#ural{
+    color: #FF0000;
+}
+.loli{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 10px;
+    gap: 3%;
+    
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .hobi{
+    text-align: center;
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+
+  }
+  .oli{
+    color: #F00;
+  }
