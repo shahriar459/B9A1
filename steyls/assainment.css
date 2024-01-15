@@ -283,3 +283,41 @@ width: 1170px;
     margin: 0;
     padding: 0 0 20px 0;
 }
+.newslater .inputSearch input{
+    margin: 0;
+    padding: 12px;
+    border-radius: 20px 0 0 20px;
+    border: none;
+    width: 250px;
+}
+.newslater .inputSearch{
+    margin: 0;
+}
+.newslater .inputSearch button{
+    width: 150px;
+    padding: 12px;
+    border-radius: 0 20px 20px 0;
+    margin-left: -5px;
+    border: none;
+    background: red;
+    color: #fff;
+    font-size: 14px;
+}
+footer {
+    background: #000;
+    padding: 50px;
+}
+.footer{width: 1170px;margin: auto;padding: 0;}
+.footer .footer1{
+    margin: 0;
+}
+.footer .footer1 .leftSide{
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+.footer .footer1 .leftSide span{
+    color: #fff;
+    font-family: sans-serif;
+    margin: 0;
+}
