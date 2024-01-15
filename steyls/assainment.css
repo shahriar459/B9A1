@@ -364,3 +364,28 @@ footer {
     border-top: 1px solid #6e6d6d;
     border-bottom: 1px solid #6e6d6d;
 }
+.footer .footer2 img{
+    margin: 0;
+    width: 47px;
+    padding: 10px;
+}
+.footer .footer3{
+    padding-top: 25px;
+}
+.footer .footer3 .leftSide{
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+.footer .footer3 .leftSide span{
+    color: #fff;
+    font-family: sans-serif;
+}
+.footer .footer3 .rightSide{float: right;margin: 0;}
+.footer .footer3 .rightSide span{
+    color: #fff;
+    font-family: sans-serif;
+}
+.phone span{
+    color: #fff;
+}
