@@ -237,9 +237,49 @@ width: 1170px;
   .hobi{
     text-align: center;
     border-radius: 16px;
-background: rgba(255, 0, 0, 0.05);
+    background: rgba(255, 0, 0, 0.05);
+  }
+    
+  .section7{
+    width: 1170px;
+}
+.section7 span{
+    margin: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: red;
+}
+.section7 h2{
+    margin: 8px 0;
+}
+.section7 p{
+    margin: 0;
+}
+.section7 img{
+    width: 32%;
+    margin: 0;
+    height: 305px;
+    padding: 5px;
+}
+.newslater {
+    width: 1170px;
+    background: #e3a2d559;
+    border-radius: 18px;
+    text-align: center;
+    padding: 17px 0;
+}
 
-  }
-  .oli{
-    color: #F00;
-  }
+.newslater img{
+    margin: 0;
+    width: 85px;
+    padding: 17px;
+}
+.newslater h2{
+    margin: 0;
+    padding: 16px;
+    font-size: 35px;
+}
+.newslater p{
+    margin: 0;
+    padding: 0 0 20px 0;
+}
